@@ -1,1 +1,2 @@
-This is the thirdTestFile
+This is the thirdTestFile 
+This is the thirdFile updated in secondBranch
